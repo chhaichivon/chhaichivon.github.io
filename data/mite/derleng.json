@@ -1,0 +1,44 @@
+[
+	{
+		"id":1,
+          "name":"Wat Phnom1",
+          "nameKh":"វត្តភ្នំ",
+          "description":"Wat Phnom is a Buddhist temple (Wat) is a pagoda that symbolizes the name of Phnom Penh, a historical site in the record of Khmer national identity.",
+          "descriptionKh":"វត្តភ្នំគឺជាប្រាសាទព្រះវិហារ (វត្ត) គឺជាវត្តមួយដែលតំណាងឱ្យឈ្មោះភ្នំពេញដែលជាទីតាំងប្រវត្តិសាស្ត្រមួយនៅក្នុងកំណត់ត្រានៃអត្តសញ្ញាណជាតិខ្មែរ។",
+          "latitude":11.5760445,
+          "longitude":104.9208625,
+          "province":"Phnom Penh",
+          "imageUrl":[
+                  "https://i.pinimg.com/originals/95/c0/ea/95c0ea41fc1e3a1626f17c433aa17f0e.jpg",
+                  "https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/147732_CambodiaPhnomPenh_WatPhnom_shutterstock_157078064.jpg"
+                  ]
+	},
+	{
+		"id":2,
+          "name":"Wat Phnom2",
+          "nameKh":"វត្តភ្នំ",
+          "description":"Wat Phnom is a Buddhist temple (Wat) is a pagoda that symbolizes the name of Phnom Penh, a historical site in the record of Khmer national identity.",
+          "descriptionKh":"វត្តភ្នំគឺជាប្រាសាទព្រះវិហារ (វត្ត) គឺជាវត្តមួយដែលតំណាងឱ្យឈ្មោះភ្នំពេញដែលជាទីតាំងប្រវត្តិសាស្ត្រមួយនៅក្នុងកំណត់ត្រានៃអត្តសញ្ញាណជាតិខ្មែរ។",
+          "latitude":11.5760445,
+          "longitude":104.9208625,
+          "province":"Phnom Penh",
+          "imageUrl":[
+                  "https://i.pinimg.com/originals/95/c0/ea/95c0ea41fc1e3a1626f17c433aa17f0e.jpg",
+                  "https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/147732_CambodiaPhnomPenh_WatPhnom_shutterstock_157078064.jpg"
+                  ]
+	},
+	{
+		"id":3,
+          "name":"Wat Phnom3",
+          "nameKh":"វត្តភ្នំ",
+          "description":"Wat Phnom is a Buddhist temple (Wat) is a pagoda that symbolizes the name of Phnom Penh, a historical site in the record of Khmer national identity.",
+          "descriptionKh":"វត្តភ្នំគឺជាប្រាសាទព្រះវិហារ (វត្ត) គឺជាវត្តមួយដែលតំណាងឱ្យឈ្មោះភ្នំពេញដែលជាទីតាំងប្រវត្តិសាស្ត្រមួយនៅក្នុងកំណត់ត្រានៃអត្តសញ្ញាណជាតិខ្មែរ។",
+          "latitude":11.5760445,
+          "longitude":104.9208625,
+          "province":"Phnom Penh",
+          "imageUrl":[
+                  "https://i.pinimg.com/originals/95/c0/ea/95c0ea41fc1e3a1626f17c433aa17f0e.jpg",
+                  "https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/147732_CambodiaPhnomPenh_WatPhnom_shutterstock_157078064.jpg"
+                  ]
+	}
+]
