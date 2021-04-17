@@ -1,0 +1,52 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "OK",
+  "data": [
+    {
+      "id": 1,
+      "nameEn": "ទូរស័ព្ទ និង Tablets",
+      "nameKh": "A1",
+      "descEn": "A1",
+      "descKh": "A1",
+      "status": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "createdBy": null,
+      "updatedBy": null,
+      "children": []
+    },
+    {
+      "id": 2,
+      "nameEn": "កុំព្យូទ័រ និង គ្រឿងបន្លាស់",
+      "nameKh": "A1",
+      "descEn": "A1",
+      "descKh": "A1",
+      "status": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "createdBy": null,
+      "updatedBy": null,
+      "children": []
+    },
+    {
+      "id": 3,
+      "nameEn": "A1",
+      "nameKh": "A1",
+      "descEn": "A1",
+      "descKh": "A1",
+      "status": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "createdBy": null,
+      "updatedBy": null,
+      "children": []
+    }
+  ],
+  "pagination": {
+    "page": 0,
+    "limit": 30,
+    "totalCount": 1,
+    "totalPage": 1
+  }
+}
