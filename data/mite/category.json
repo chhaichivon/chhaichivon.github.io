@@ -1,8 +1,4 @@
-{
-  "code": 200,
-  "status": true,
-  "message": "OK",
-  "data": [
+[
     {
       "id": 1,
       "nameEn": "ទូរស័ព្ទ និង Tablets",
@@ -42,11 +38,4 @@
       "updatedBy": null,
       "children": []
     }
-  ],
-  "pagination": {
-    "page": 0,
-    "limit": 30,
-    "totalCount": 1,
-    "totalPage": 1
-  }
-}
+]
