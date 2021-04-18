@@ -1,121 +1,121 @@
 [
-		{
-			"id": 1,
-			"name": "Angkor Wat",
-			"nameKh": "Angkor Wat",
-			"description": "Angkor Wat combines two basic plans of Khmer temple architecture: the temple-mountain and the later galleried temple. ",
-			"descriptionKh": "Angkor Wat combines two basic plans of Khmer temple architecture: the temple-mountain and the later galleried temple. ",
-			"latitude": 11.5760445,
-			"longitude": 104.9208625,
-			"province": "Siem Reap",
-			"imagesUrl": [
-				"https://chhaichivon.github.io/data/mite/derleng/resort/7.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/1.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/2.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/3.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/4.jpg"
-			]
-		},
-		{
-			"id": 2,
-			"name": "Wat Phnom",
-			"nameKh": "វត្តភ្នំ",
-			"description": "Wat Phnom is a Buddhist temple (Wat) is a pagoda that symbolizes the name of Phnom Penh, a historical site in the record of Khmer national identity.",
-			"descriptionKh": "វត្តភ្នំគឺជាប្រាសាទព្រះវិហារ (វត្ត) គឺជាវត្តមួយដែលតំណាងឱ្យឈ្មោះភ្នំពេញដែលជាទីតាំងប្រវត្តិសាស្ត្រមួយនៅក្នុងកំណត់ត្រានៃអត្តសញ្ញាណជាតិខ្មែរ។",
-			"latitude": 11.5760445,
-			"longitude": 104.9208625,
-			"province": "Phnom Penh",
-			"imagesUrl": [
-				"https://chhaichivon.github.io/data/mite/derleng/resort/15.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/5.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/6.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/8.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/9.jpg"
-			]
-		},
-		{
-			"id": 3,
-			"name": "Koh Rong Hill Beach Resort",
-			"nameKh": "Koh Rong Hill Beach Resort",
-			"description": "Koh Touch in Koh Rong (Long Set Beach), Sihanouk Ville, Koh Rong 18000 Cambodia",
-			"descriptionKh": "Koh Touch in Koh Rong (Long Set Beach), Sihanouk Ville, Koh Rong 18000 Cambodia",
-			"latitude": 11.5760445,
-			"longitude": 104.9208625,
-			"province": "Phnom Penh",
-			"imagesUrl": [
-				"https://chhaichivon.github.io/data/mite/derleng/resort/25.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/10.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/11.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/12.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/13.jpg"
-			]
-		},
-		{
-			"id": 4,
-			"name": "Song Saa Private Island",
-			"nameKh": "Song Saa Private Island",
-			"description": "Koh Rong 18000 Cambodia",
-			"descriptionKh": "Koh Rong 18000 Cambodia",
-			"latitude": 11.5760445,
-			"longitude": 104.9208625,
-			"province": "Phnom Penh",
-			"imagesUrl": [
-				"https://chhaichivon.github.io/data/mite/derleng/resort/17.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/14.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/16.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/18.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/19.jpg"
-			]
-		},
-		{
-			"id": 5,
-			"name": "Kirirom resort",
-			"nameKh": "Kirirom resort",
-			"description": "Kirirom resort",
-			"descriptionKh": "Kirirom resort",
-			"latitude": 11.5760445,
-			"longitude": 104.9208625,
-			"province": "Phnom Penh",
-			"imagesUrl": [
-				"https://chhaichivon.github.io/data/mite/derleng/resort/20.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/21.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/22.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/23.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/24.jpg"
-			]
-		},
-		{
-			"id": 6,
-			"name": "Kirirom resort",
-			"nameKh": "Kirirom resort",
-			"description": "Kirirom resort",
-			"descriptionKh": "Kirirom resort",
-			"latitude": 11.5760445,
-			"longitude": 104.9208625,
-			"province": "Phnom Penh",
-			"imagesUrl": [
-				"https://chhaichivon.github.io/data/mite/derleng/resort/26.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/29.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/27.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/28.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/30.jpg"
-			]
-		},
-		{
-			"id": 7,
-			"name": "Kirirom resort",
-			"nameKh": "Kirirom resort",
-			"description": "Kirirom resort",
-			"descriptionKh": "Kirirom resort",
-			"latitude": 11.5760445,
-			"longitude": 104.9208625,
-			"province": "Phnom Penh",
-			"imagesUrl": [
-				"https://chhaichivon.github.io/data/mite/derleng/resort/31.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/32.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/33.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/34.jpg",
-				"https://chhaichivon.github.io/data/mite/derleng/resort/35.jpg",
-			]
-		}
+  {
+    "id": 1,
+    "name": "Angkor Wat",
+    "nameKh": "Angkor Wat",
+    "description": "Angkor Wat combines two basic plans of Khmer temple architecture: the temple-mountain and the later galleried temple. ",
+    "descriptionKh": "Angkor Wat combines two basic plans of Khmer temple architecture: the temple-mountain and the later galleried temple. ",
+    "latitude": 11.5760445,
+    "longitude": 104.9208625,
+    "province": "Siem Reap",
+    "imagesUrl": [
+      "https://chhaichivon.github.io/data/mite/derleng/resort/7.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/1.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/2.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/3.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wat Phnom",
+    "nameKh": "វត្តភ្នំ",
+    "description": "Wat Phnom is a Buddhist temple (Wat) is a pagoda that symbolizes the name of Phnom Penh, a historical site in the record of Khmer national identity.",
+    "descriptionKh": "វត្តភ្នំគឺជាប្រាសាទព្រះវិហារ (វត្ត) គឺជាវត្តមួយដែលតំណាងឱ្យឈ្មោះភ្នំពេញដែលជាទីតាំងប្រវត្តិសាស្ត្រមួយនៅក្នុងកំណត់ត្រានៃអត្តសញ្ញាណជាតិខ្មែរ។",
+    "latitude": 11.5760445,
+    "longitude": 104.9208625,
+    "province": "Phnom Penh",
+    "imagesUrl": [
+      "https://chhaichivon.github.io/data/mite/derleng/resort/15.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/5.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/6.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/8.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/9.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Koh Rong Hill Beach Resort",
+    "nameKh": "Koh Rong Hill Beach Resort",
+    "description": "Koh Touch in Koh Rong (Long Set Beach), Sihanouk Ville, Koh Rong 18000 Cambodia",
+    "descriptionKh": "Koh Touch in Koh Rong (Long Set Beach), Sihanouk Ville, Koh Rong 18000 Cambodia",
+    "latitude": 11.5760445,
+    "longitude": 104.9208625,
+    "province": "Phnom Penh",
+    "imagesUrl": [
+      "https://chhaichivon.github.io/data/mite/derleng/resort/25.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/10.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/11.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/12.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/13.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Song Saa Private Island",
+    "nameKh": "Song Saa Private Island",
+    "description": "Koh Rong 18000 Cambodia",
+    "descriptionKh": "Koh Rong 18000 Cambodia",
+    "latitude": 11.5760445,
+    "longitude": 104.9208625,
+    "province": "Phnom Penh",
+    "imagesUrl": [
+      "https://chhaichivon.github.io/data/mite/derleng/resort/17.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/14.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/16.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/18.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/19.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kirirom resort",
+    "nameKh": "Kirirom resort",
+    "description": "Kirirom resort",
+    "descriptionKh": "Kirirom resort",
+    "latitude": 11.5760445,
+    "longitude": 104.9208625,
+    "province": "Phnom Penh",
+    "imagesUrl": [
+      "https://chhaichivon.github.io/data/mite/derleng/resort/20.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/21.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/22.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/23.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/24.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kirirom resort",
+    "nameKh": "Kirirom resort",
+    "description": "Kirirom resort",
+    "descriptionKh": "Kirirom resort",
+    "latitude": 11.5760445,
+    "longitude": 104.9208625,
+    "province": "Phnom Penh",
+    "imagesUrl": [
+      "https://chhaichivon.github.io/data/mite/derleng/resort/26.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/29.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/27.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/28.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/30.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Kirirom resort",
+    "nameKh": "Kirirom resort",
+    "description": "Kirirom resort",
+    "descriptionKh": "Kirirom resort",
+    "latitude": 11.5760445,
+    "longitude": 104.9208625,
+    "province": "Phnom Penh",
+    "imagesUrl": [
+      "https://chhaichivon.github.io/data/mite/derleng/resort/31.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/32.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/33.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/34.jpg",
+      "https://chhaichivon.github.io/data/mite/derleng/resort/35.jpg"
+    ]
+  }
 ]
